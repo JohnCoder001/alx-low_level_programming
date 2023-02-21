@@ -1,1 +1,1 @@
-Write a programs
+Write c programs
